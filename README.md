@@ -36,6 +36,6 @@ Multivariate Regression / Time-Series Surrogate Modeling / Reduced Order Modelin
 2. **[Dataset Characteristics](1_DatasetCharacteristics)**
 3. **[Baseline Model](2_BaselineModel)**
 4. **[Model Definition and Evaluation](3_Model)**
-5. **[Presentation](4_Presentation/Physics_Informed_Model_Order_Reduction_via_Neural_Networks (1).pdf)**
+5. **[Presentation](https://github.com/midhun8629-sudo/Physics-Informed-Model-Order-Reduction-MOR-via-Neural-Networks/blob/main/4_Presentation/Physics_Informed_Model_Order_Reduction_via_Neural_Networks%20(1).pdf)**
 
 
