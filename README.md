@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/your_username/Physics_Informed_Model_Order_Reduction]
+[https://github.com/midhun8629-sudo/Physics-Informed-Model-Order-Reduction-MOR-via-Neural-Networks/blob/main/README.md]
 
 ## Description
 This repository contains a robust computational framework designed to accelerate high-fidelity finite element method (FEM) simulations (such as those typically executed in Abaqus or COMSOL). By coupling Singular Value Decomposition (SVD) for dimensionality reduction with deep neural networks built in PyTorch, this project creates a near real-time surrogate model. The framework maps temporal and parametric inputs directly to a reduced physical state, acting as a highly efficient digital twin for transient materials engineering problems while circumventing the computational bottleneck of traditional numerical solvers.
