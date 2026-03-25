@@ -40,5 +40,5 @@ Multivariate Regression / Time-Series Surrogate Modeling / Reduced Order Modelin
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/Cover_Image.png)
 *(Note: Ensure you place a relevant visualization here, such as a side-by-side contour plot comparing the exact FEM solution to the Neural Network reconstruction).*
