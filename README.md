@@ -1,5 +1,4 @@
-# Physics-Informed Surrogates, Digital Twins, and Inverse Solvers
-
+# Physics-Informed-Model-Order-Reduction-MOR-via-Neural-Networks
 ## Repository Link
 
 [https://github.com/midhun8629-sudo/Physics-Informed-Model-Order-Reduction-MOR-via-Neural-Networks/blob/main/README.md]
